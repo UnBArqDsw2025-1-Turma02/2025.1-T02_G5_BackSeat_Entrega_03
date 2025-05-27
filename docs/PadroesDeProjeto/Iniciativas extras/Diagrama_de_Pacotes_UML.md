@@ -1,5 +1,5 @@
 
-# Documento Técnico - Diagrama de Pacotes em UML
+# Documento Técnico - Diagrama de Pacotes 
 
 ## Introdução
 

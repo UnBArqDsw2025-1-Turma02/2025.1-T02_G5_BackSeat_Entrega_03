@@ -1,5 +1,5 @@
 
-# Documento Técnico - Diagrama de Colaboração em UML
+# Documento Técnico - Diagrama de Colaboração 
 
 ## Introdução
 
