@@ -42,7 +42,9 @@ Em resumo, o Diagrama de Colaboração é mais adequado quando a **arquitetura d
 3. Texto base: descrição conceitual do Diagrama de Colaboração (material fornecido).
 4. Sommerville, I. *Engenharia de Software*. Pearson.
 
-## Histórico
+## Histórico de Versão
 
-- **Versão 1.0 - 19/05/2025**: Documento elaborado com base em texto fornecido e metodologia analítica. Revisão pendente por pares.
-- **Colaboradores**: Equipe de modelagem orientada a objetos – colaboração entre analistas e revisores técnicos.
+| Versão | Alteração                  | Responsável     | Revisor | Data       | Detalhes da Revisão |
+| -      | -                          | -               | -       | -          | -                   |
+| 1.0    | Elaboração do documento | [Júlio Cesar](https://github.com/Julio1099) e [Fernando Gabriel](https://github.com/show-dawn)| | 19/05/2025 | |
+| 1.1    | Correção do histórico de versão | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 02/06/2025 | |

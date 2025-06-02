@@ -52,8 +52,9 @@ Consideramos uma boa escolha focar na representação em pacotes porque:
 3. Texto base: Seção 8.4. Pacotes (material fornecido).
 4. Textos complementares do aprender3; Professora Milene
 
-## Histórico
+## Histórico de Versão
 
-- **Versão 1.1 - 19/05/2025**: Expansão da introdução e detalhamento completo da metodologia. Estrutura mantida conforme solicitado.
-- **Versão 1.0 - 19/05/2025**: Primeira versão com base nos diagramas e conteúdo textual.
-- **Colaboradores**: Documento elaborado por equipe de análise e modelagem de sistemas; revisão final pendente.
+| Versão | Alteração                  | Responsável     | Revisor | Data       | Detalhes da Revisão |
+| -      | -                          | -               | -       | -          | -                   |
+| 1.0    | Elaboração do documento | [Júlio Cesar](https://github.com/Julio1099) e [Fernando Gabriel](https://github.com/show-dawn)| | 19/05/2025 | |
+| 1.1    | Correção do histórico de versão | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 02/06/2025 | |
