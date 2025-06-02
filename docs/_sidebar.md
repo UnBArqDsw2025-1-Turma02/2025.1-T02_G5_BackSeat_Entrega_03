@@ -5,6 +5,7 @@
 
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)](/docs/PadroesDeProjeto/3.PadroesDeProjeto.md)
+    - [3.0. Diagrama de Classe Retrabalhado](/docs/PadroesDeProjeto/3.0.DiagramaClasses.md) 
     - [3.1. Padrões de Projeto GoFs Criacionais](/docs/PadroesDeProjeto/3.1.GoFsCriacionais.md)
     - [3.2. Padrões de Projeto GoFs Estruturais](/docs/PadroesDeProjeto/3.2.GoFsEstruturais.md)
     - [3.3. Padrões de Projeto GoFs Comportamentais](/docs/PadroesDeProjeto/3.3.GoFsComportamentais.md)
