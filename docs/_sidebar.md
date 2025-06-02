@@ -10,4 +10,6 @@
     - [3.3. Padrões de Projeto GoFs Comportamentais](PadroesDeProjeto/3.3.GoFsComportamentais.md)
     - [3.4. Participações - Padrões de Projeto](PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
     - [3.5. Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.5.IniciativasExtras.md)
-      
+      - [Metologia de Trabalho](PadroesDeProjeto/Iniciativas_extras/metodologia_trabalho.md)
+      - [Diagrama de Colaboração](PadroesDeProjeto/Iniciativas_extras/Diagrama_de_Colaboracao_UML.md)
+      - [Diagrama de Pacotes](PadroesDeProjeto/Iniciativas_extras/Diagrama_de_Pacotes_UML.md)

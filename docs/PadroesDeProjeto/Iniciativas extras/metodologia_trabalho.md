@@ -16,11 +16,11 @@ O principal elemento a destacar do documento é a divisão em trios realizada pa
 
 A figura 2, a seguir, demonstra a divisão realizada em trios, e a figura 3 demonstra a organização em que parte do foco o trio iria contribuir. 
 
-![Divisão Doc.](/../Imagens/divisao_doc.png)
+![Divisão Doc.](/Imagens/divisao_doc.png)
 
 **Figura 2**: Divisão dos trios e focos gerais. **Autor**: Rodrigo Orlandi
 
-![Divisão 2 Doc.](/../Imagens/divisao2_doc.png)
+![Divisão 2 Doc.](/Imagens/divisao2_doc.png)
 
 **Figura 3**: Divisão das tarefas por foco e membro. **Autor**: Rodrigo Orlandi
 
