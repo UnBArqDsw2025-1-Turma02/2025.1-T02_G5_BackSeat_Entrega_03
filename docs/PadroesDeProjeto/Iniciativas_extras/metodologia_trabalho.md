@@ -1,7 +1,7 @@
 # Iniciativa Extra - Metodologia de Trabalho
 
 ## Introdução 
-Este documento detalha a metodologia de trabalho de equipe durante a entrega 3, disponibiliza os documentos de apoio trabalhados pela equipe e esclarece a organização realizada entre os membros. Está agrupado juntamente às [iniciativas extras](../3.5.IniciativasExtras.md) da equipe.
+Este documento detalha a metodologia de trabalho de equipe durante a entrega 3, disponibiliza os documentos de apoio trabalhados pela equipe e esclarece a organização realizada entre os membros. Está agrupado juntamente às [iniciativas extras](/../3.5.IniciativasExtras.md) da equipe.
 
 ## Metodologia
 Visando cumprir primariamente uma entrega mínima de qualidade, e para garantir que todos os membros da equipe trabalharam em todos os focos, foi estabelecido um documento no Google Drive respectivo à entrega 3, o qual foi continuamente iterado paralelamente ao desenvolvimento das partes da entrega 3. O documento pode ser acessado via [este link](https://docs.google.com/document/d/1-ja98Rvvdi68BiznqZlR82bOv1W5AsOCe052NFqRMWI/edit?usp=sharing).
