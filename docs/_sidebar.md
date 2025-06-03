@@ -13,3 +13,5 @@
       - [Metologia de Trabalho](PadroesDeProjeto/Iniciativas_extras/metodologia_trabalho.md)
       - [Diagrama de Colaboração](PadroesDeProjeto/Iniciativas_extras/Diagrama_de_Colaboracao_UML.md)
       - [Diagrama de Pacotes](PadroesDeProjeto/Iniciativas_extras/Diagrama_de_Pacotes_UML.md)
+      - [Protótipo](PadroesDeProjeto/Iniciativas_extras/Prototype.md)
+      - [Plano de Risco](PadroesDeProjeto/Iniciativas_extras/Plano_de_Risco.md)
